@@ -1,4 +1,4 @@
-# Evaluating Happiness:  
+# Evaluating Happiness  
 ## Supervised and Unsupervised Learning Techniques Exploring the Relationship Between Values and Wellbeing  
   
 ### Project Overview & Motivation  
