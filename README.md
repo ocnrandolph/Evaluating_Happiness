@@ -53,7 +53,7 @@ Some geographic neighbors' responses clustered in the same area (e.g., Nigeria a
 Whereas other geographic neighbors' responses were very far apart (e.g., Pakistan and India):  
 [insert example image here]  
   
-For me, these types of findings raise questions about whether and how these clusters confirm (or refute) assumptions about cultural differences and worldviews. There's a saying in Igbo (my ethnicity and tribe's language): "_A dighi e ji ihe a na agba na nti agba n’anya_." It means, "You don't put eye drops in your ear." You need to have different approaches for different contexts. When solving most problems, it's good practice to make sure you have a good understanding of your target population (and the diversity within them). For large enough samples and complex feature sets like this one, UMAP seems to be a good tool for this goal.  
+For me, these types of findings raise questions about whether and how these clusters confirm (or refute) assumptions about cultural differences and worldviews. There's a saying in Igbo (my ethnicity and tribe's language): "_E ji ihe a na agba na nti agba n’anya_." It means, "You don't put eye drops in your ear." You need to have different approaches for different contexts. When solving most problems, it's good practice to make sure you have a good understanding of your target population (and the diversity within them). For large enough samples and complex feature sets like this one, UMAP seems to be a good tool for this goal.  
     
 ### _Where To From Here_    
   
