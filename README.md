@@ -30,9 +30,9 @@ The World Values Survey is the primary data collection tool used in an internati
   
 ### _Key Insights_  
 For the most part, the majority of survey respondents are pretty happy (yay!).  
-[insert image here]  
+<img src="https://user-images.githubusercontent.com/70925823/125828277-27f77da2-7d6f-4f12-ad92-ce25f212b3db.png" width="100%"></img>  
   
-EDA analyses reveal early on 4 survey items moderately correlated with the happiness:
+EDA analyses reveal that 4 survey items are moderately correlated with happiness:
   - self-rated health
   - perceived freedom of choice
   - satisfaction with household income
