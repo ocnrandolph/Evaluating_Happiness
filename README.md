@@ -48,10 +48,10 @@ Between the two models, only three expressely value-related survey items made th
 When examining whether and how respondents from the same country answered survey items in the same way, UMAP plots yielded some expected and unexpected findings. I built a widget to be able to allow myself and others to explore these findings freely (thanks, Michael!). As expected, responses from the U.S. were relatively spread out compared to respondents from Haiti, for example:  
   
 Some geographic neighbors' responses clustered in the same area (e.g., Nigeria and Ghana):  
-[insert example image here]
+<img src="https://user-images.githubusercontent.com/70925823/125830580-4e873616-fbb3-4760-9f84-53f5338687ea.png" width="100%"></img>
   
 Whereas other geographic neighbors' responses were very far apart (e.g., Pakistan and India):  
-[insert example image here]  
+<img src="https://user-images.githubusercontent.com/70925823/125830571-e645390e-06bd-4ee2-a779-e39522f6ecb7.png" width="100%"></img>    
   
 For me, these types of findings raise questions about whether and how these clusters confirm (or refute) assumptions about cultural differences and worldviews. There's a saying in Igbo (my ethnicity and tribe's language): "_E ji ihe a na agba na nti agba n’anya_." It means, "You don't put eye drops in your ear." You need to have different approaches for different contexts. When solving most problems, it's good practice to make sure you have a good understanding of your target population (and the diversity within them). For large enough samples and complex feature sets like this one, UMAP seems to be a good tool for this goal.  
     
